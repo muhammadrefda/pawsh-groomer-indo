@@ -1,0 +1,25 @@
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+typings/
+
+node_modules/
+lib/
+.idea/
+.DS_Store
+
+# dotenv environment variables file
+config/
+.env
+.env.*
+
+.firebaserc
+firebase.json
+*.zsh
+
+switch-project.zsh
+
+# gcloud components
+.gcloudignore
